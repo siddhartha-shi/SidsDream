@@ -1,4 +1,4 @@
-# SidsDream
+# Privacy Policy
 
 Here we ask permission for your contacts and geo sensor. Because when you fill denger
 then if you shake your phone it will automaticaly call your known number.
